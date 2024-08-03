@@ -15,3 +15,7 @@ The latest version of [rustlings](https://github.com/rust-lang/rustlings) no lon
   
 
 You don't need to install rust or rustlings or run rustlings init, as those will all be handled as a part of setting up the devcontainer.
+
+## TODO
+
+* rustlings init requires pressing enter to procees
