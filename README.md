@@ -18,4 +18,4 @@ You don't need to install rust or rustlings or run rustlings init, as those will
 
 ## TODO
 
-* rustlings init requires pressing enter to procees
+* Add  to devcontainer -- can't currently do this 
