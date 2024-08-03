@@ -7,5 +7,6 @@
                 "rust-lang.rust-analyzer"
             ]
         }
-    }
+    },
+    "postCreateCommand": "bash init-rustlings.sh"
 }
