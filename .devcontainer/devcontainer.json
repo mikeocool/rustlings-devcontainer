@@ -8,5 +8,5 @@
             ]
         }
     },
-    "postCreateCommand": "bash init-rustlings.sh"
+    "postCreateCommand": "bash /init-rustlings.sh"
 }
