@@ -9,4 +9,5 @@ else
 
     # remove the .git directory created by the rustlings init command, since we're already in a git repo
     rm -R rustlings/.git
+    git add rustlings
 fi
