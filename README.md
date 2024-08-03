@@ -2,7 +2,7 @@
 
 The latest version of [rustlings](https://github.com/rust-lang/rustlings) no longer natively supports running it in a devcontainer or Github Codespace, so instead you can clone this repo and use it as your rustlings excersizes repo.
 
-## To with Github Codespaces 
+### Getting started with Github Codespaces 
 
 * Fork this repo
 * Start a github codespace from your fork
